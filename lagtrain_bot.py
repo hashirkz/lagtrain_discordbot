@@ -10,7 +10,7 @@ from discord.ext import commands
 
 
 # video processor / discord bot to make ascii videos (frame by frame)
-TOKEN = os.eviron.get('TOKEN')
+TOKEN = os.getenv('TOKEN')
 
 # checks if youtube link is a real link / exists
 def is_supported(url):
