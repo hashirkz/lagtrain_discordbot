@@ -118,7 +118,7 @@ async def send_ascii_frames(ctx, url, w=70, h=27, fps=24):
     #discord function to send ascii frames
     #note the dimensions w=70 and h=27 are inverted and based on the aspect ratio h:w = 2.25 in discord
     url = url_to_webm(url)
-    await ctx.send(url)
+    #await ctx.send(url)
 
     i = 0
     vid = cv2.VideoCapture(url)
