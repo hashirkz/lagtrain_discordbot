@@ -1,1 +1,1 @@
-worker : python lagtrainbot.py
+worker : python lagtrain_bot.py
