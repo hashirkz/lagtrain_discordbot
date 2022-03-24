@@ -7,4 +7,3 @@ opencv-python==4.5.5.64
 youtube-dl==2021.12.17
 Pillow==9.0.1
 numpy==1.22.2
-libgl1-mesa-glx
