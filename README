@@ -13,5 +13,7 @@ bugs/problems:
 the renderer outputs frames in batches of 5 and the correct framerate and then pauses for a moment (no idea why it does this)
 it has something to do with openCV and the way videos are process have I B and P frames or delta frames from whats online
 
+youtube-dl after multiple calls of &frames reaches a limit of sorts and temporarly prevents &frames from working for a while
+
 fix in progress
 
