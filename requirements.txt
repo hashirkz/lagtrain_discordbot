@@ -3,7 +3,7 @@ dnspython==1.16.0
 pafy==0.5.5
 discord.py==1.7.3
 async-timeout==3.0.1
-opencv-python==4.5.5.64
+opencv-python-headless==4.2.0.32
 youtube-dl==2021.12.17
 Pillow==9.0.1
 numpy==1.22.2
