@@ -8,7 +8,6 @@ discord bot link: https://discord.com/api/oauth2/authorize?client_id=95571857284
 discord bot to render videos in ascii / .txt format (sends each video frame as a discord message)  
 `dimensions : w = 70 h = 22 characters 2.57 aspect ratio`  
 
-
 ## usage/commands:
 `&frames <ur youtube video link>` -> starts render the video and messages ascii txt back  
 `&stop` or `&end` to stop the bot  
@@ -21,3 +20,5 @@ it has something to do with openCV and the way videos are process have I B and P
 somtimes the bot doesnt reset and just stays offline  
 
 fix in progress :purple_heart:  
+
+![lagtrain_example](./lagtrain.png)  
