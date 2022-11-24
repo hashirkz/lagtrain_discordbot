@@ -3,7 +3,7 @@
 ## discord link  
 [click to add discord bot](https://discord.com/api/oauth2/authorize?client_id=955718572842287134&permissions=292057901056&scope=bot)  
 discord bot link: https://discord.com/api/oauth2/authorize?client_id=955718572842287134&permissions=292057901056&scope=bot  
----
+
 ## about
 discord bot to render videos in ascii / .txt format (sends each video frame as a discord message)  
 `dimensions : w = 70 h = 22 characters 2.57 aspect ratio`  
