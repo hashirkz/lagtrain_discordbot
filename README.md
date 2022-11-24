@@ -1,7 +1,7 @@
 # DISCLAIMER DO NOT USE THIS TO SPAM / USE IN A DEDICATED DISCORD CHANNEL  
 
 ## discord link
-[click to add discord bot](https://discord.com/api/oauth2/authorize?client_id=955718572842287134&permissions=292057901056&scope=bot)
+[click to add discord bot](https://discord.com/api/oauth2/authorize?client_id=955718572842287134&permissions=292057901056&scope=bot)  
 discord bot link: https://discord.com/api/oauth2/authorize?client_id=955718572842287134&permissions=292057901056&scope=bot
 
 ## about
